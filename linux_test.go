@@ -1,6 +1,8 @@
 //go:build linux
 // +build linux
 
+// Copyright 2024 Hewlett Packard Enterprise Development LP.
+
 package lumberjack
 
 import (

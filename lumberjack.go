@@ -1,3 +1,4 @@
+// Copyright 2024 Hewlett Packard Enterprise Development LP.
 // Package lumberjack provides a rolling logger.
 //
 // Note that this is v2.0 of lumberjack, and should be imported using gopkg.in
